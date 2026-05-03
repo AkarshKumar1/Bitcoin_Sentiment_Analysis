@@ -132,7 +132,7 @@ jupyter notebook
 Then open:
 
 ```text
-Akarsh_Kumar_Bitcoin_Sentiment_Analysis.ipynb
+Bitcoin_Sentiment_Analysis.ipynb
 ```
 
 # 📌 Future Improvements
