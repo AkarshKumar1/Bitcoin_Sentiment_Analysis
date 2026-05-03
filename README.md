@@ -67,7 +67,7 @@ Bitcoin-Sentiment-Analysis/
 │   ├── historical_data.csv
 │   └── fear_greed_index.csv
 │
-│── bitcoin_sentiment_analysis.ipynb
+│── Bitcoin_Sentiment_Analysis.ipynb
 │── report.pdf
 │── README.md
 ```
